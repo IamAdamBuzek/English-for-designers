@@ -1,7 +1,7 @@
 
 # First impression
 
-![This is my first impression ](02-first-impression
-.pdf)
+![first impression 
+](02-firstimpression.pdf)
 
 **Alt text:** This is my first impression
