@@ -5,7 +5,7 @@ Welcome to my page!
 ## About me 
 
 - [My story](my-story/index.md)
-- [Résumé](/04-experience/AJ-CV_Byrtus.pdf)
+- [Résumé](/04-experience/04-experience.pdf)
 
 ## Case studies
 
