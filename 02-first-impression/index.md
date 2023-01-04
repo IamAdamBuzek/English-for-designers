@@ -16,4 +16,3 @@
 ![first impression 
 ](02-first-impression5.png)
 
-**Alt text:** This is my first impression
