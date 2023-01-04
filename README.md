@@ -5,7 +5,7 @@ Welcome to my page!
 ## About me 
 
 - [My story](my-story/index.md)
-- [Résumé](/04-experience/04-experience.pdf)
+- [Résumé](/04-experience/04-experience.png)
 
 ## Case studies
 
