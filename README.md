@@ -16,7 +16,7 @@ Welcome to my page!
 ## Class work
 
 - [Alternative text](01-alternative-text/index.md)
-- [First impression](02-first-impresion.pdf/index.md)
+- [First impression](02-first-impresion/index.md)
 - [Content first](03-content-first/index.md)
 - [Experience](04-experience/index.md)
 - [Voice & tone](05-voice-tone/index.md)
