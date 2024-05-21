@@ -20,3 +20,4 @@ Welcome to my page!
 - [Content first](03-content-first/index.md)
 - [Experience](04-experience/index.md)
 - [Voice & tone](05-voice-tone/index.md)
+- [Year in review](07-year-in-review/index.md)
