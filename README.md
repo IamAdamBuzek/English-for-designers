@@ -19,5 +19,5 @@ Welcome to my page!
 - [First impression](02-first-impression/index.md)
 - [Content first](03-content-first/index.md)
 - [Experience](04-experience/index.md)
-- [Voice & tone](05-voice-tone/index.md)
-- [Year in review](07-year-in-review/index.md)
+- [Voice & tone](Create-voice-and-tone.md)
+- [Year in review](Year-in-Review.md)
