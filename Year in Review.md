@@ -1,4 +1,4 @@
-Year in Review
+# Year in Review
 
 This past year has been very special for me, with some unexpected and interesting experiences. I started my year excited to to join the reality show Survivor. Because of reality show “Survivor,” I had to take a break from my studies and split my semester with one year break. When I came back, I felt differently about school. The tough, survival experience on the show made me appreciate the structured and stimulating classroom environment even more. I realized how much I enjoyed learning and having academic discussions, which I didn’t notice as much before.
 
